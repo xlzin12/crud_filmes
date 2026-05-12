@@ -10,14 +10,18 @@ session_start();
 $filmes_iniciais = [
     ["id" => 1, "titulo" => "Interestelar", "genero" => "Ficção Científica", "imagem" => "fotos/interstelar.jpg"],
     ["id" => 2, "titulo" => "O Poderoso Chefão", "genero" => "Crime", "imagem" => "https://via.placeholder.com/150"],
-    ["id" => 3, "titulo" => "Matrix", "genero" => "Ação", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 3, "titulo" => "Roben Hood", "genero" => "Ação", "imagem" => "https://via.placeholder.com/150"],
     ["id" => 4, "titulo" => "Parasita", "genero" => "Drama", "imagem" => "https://via.placeholder.com/150"],
     ["id" => 5, "titulo" => "O Rei Leão", "genero" => "Animação", "imagem" => "https://via.placeholder.com/150"],
     ["id" => 6, "titulo" => " Zootopia", "genero" => "arcade", "imagem" => "https://via.placeholder.com/150"],
-    ["id" => 7, "titulo" => "Era do gelo", "genero" => "aventura", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 7, "titulo" => "Batman", "genero" => "Aventura", "imagem" => "https://via.placeholder.com/150"],
     ["id" => 8, "titulo" => "mugen train", "genero" => "aventura", "imagem" => "https://via.placeholder.com/150"],
     ["id" => 9, "titulo" => "titanic", "genero" => "Drama", "imagem" => "https://via.placeholder.com/150"],
-    ["id" => 10, "titulo" => "Vingadore", "genero" => "Ação", "imagem" => "https://via.placeholder.com/150"]
+    ["id" => 10, "titulo" => "Vingadore", "genero" => "Ação", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 11, "titulo" => "Esquadrão Suicida", "genero" => "Ação", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 12, "titulo" => "Homem Aranha", "genero" => "Aventura", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 13, "titulo" => "Vovozona", "genero" => "Comedia", "imagem" => "https://via.placeholder.com/150"],
+    
 ];
 
 if (!isset($_SESSION['filmes_salvos'])) {
