@@ -1,0 +1,78 @@
+ body {
+     font-family: sans-serif;
+     background: #1a1a1a;
+     color: #fff;
+     padding: 20px;
+ }
+
+ .container {
+     max-width: 800px;
+     margin: auto;
+ }
+
+ .form-box {
+     background: #333;
+     padding: 20px;
+     border-radius: 8px;
+     margin-bottom: 20px;
+     border-top: 4px solid #e50914;
+ }
+
+ input {
+     padding: 8px;
+     margin: 5px;
+     border-radius: 4px;
+     border: none;
+     width: 180px;
+ }
+
+ .btn {
+     padding: 8px 12px;
+     border-radius: 4px;
+     cursor: pointer;
+     text-decoration: none;
+     font-weight: bold;
+     border: none;
+ }
+
+ .btn-salvar {
+     background: #e50914;
+     color: white;
+ }
+
+ table {
+     width: 100%;
+     border-collapse: collapse;
+     background: #222;
+ }
+
+ th,
+ td {
+     padding: 10px;
+     border: 1px solid #444;
+     text-align: left;
+ }
+
+ .btn-edit {
+     background: #f39c12;
+     color: #fff;
+     font-size: 14px;
+ }
+
+ .btn-del {
+     background: #c0392b;
+     color: #fff;
+     font-size: 14px;
+ }
+
+ .poster {
+     width: 50px;
+     height: 75px;
+     object-fit: cover;
+ }
+
+ .reset {
+     background: #555;
+     color: white;
+     float: right;
+ }
