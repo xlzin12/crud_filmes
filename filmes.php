@@ -18,9 +18,14 @@ $filmes_iniciais = [
     ["id" => 8, "titulo" => "mugen train", "genero" => "aventura", "imagem" => "https://via.placeholder.com/150"],
     ["id" => 9, "titulo" => "titanic", "genero" => "Drama", "imagem" => "https://via.placeholder.com/150"],
     ["id" => 10, "titulo" => "Vingadore", "genero" => "Ação", "imagem" => "https://via.placeholder.com/150"],
-    ["id" => 11, "titulo" => "Esquadrão Suicida", "genero" => "Ação", "imagem" => "https://via.placeholder.com/150"],
-    ["id" => 12, "titulo" => "Homem Aranha", "genero" => "Aventura", "imagem" => "https://via.placeholder.com/150"],
-    ["id" => 13, "titulo" => "Vovozona", "genero" => "Comedia", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 11, "titulo" => "Se Beber Não Case", "genero" => "Comédia", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 12, "titulo" => "Avatar", "genero" => "Ficção Científica", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 13, "titulo" => "Todo Mundo em Panico", "genero" => "Comédia", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 14, "titulo" => "Invocação do Mal", "genero" => "Terror", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 15, "titulo" => "Barbie - O Castelo de Diamantes", "genero" => "Desenho", "imagem" => "https://via.placeholder.com/150"]
+    ["id" => 16, "titulo" => "Esquadrão Suicida", "genero" => "Ação", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 17, "titulo" => "Homem Aranha", "genero" => "Aventura", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 18, "titulo" => "Vovozona", "genero" => "Comedia", "imagem" => "https://via.placeholder.com/150"],
     
 ];
 
