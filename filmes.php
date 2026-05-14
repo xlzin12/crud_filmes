@@ -26,7 +26,13 @@ $filmes_iniciais = [
     ["id" => 16, "titulo" => "Esquadrão Suicida", "genero" => "Ação", "imagem" => "https://via.placeholder.com/150"],
     ["id" => 17, "titulo" => "Homem Aranha", "genero" => "Aventura", "imagem" => "https://via.placeholder.com/150"],
     ["id" => 18, "titulo" => "Vovozona", "genero" => "Comedia", "imagem" => "https://via.placeholder.com/150"],
-    
+    ["id" => 19, "titulo" => "Velozes e Furiosos 4", "genero" => "Ação", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 20, "titulo" => "Clube da Luta", "genero" => "Drama", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 21, "titulo" => "Blade Runner 2049", "genero" => "Ficção Científica", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 22, "titulo" => "Drive", "genero" => "Crime", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 23, "titulo" => "The Batman", "genero" => "Suspense", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 24, "titulo" => "O Túmulo dos Vagalumes", "genero" => "Guerra", "imagem" => "https://via.placeholder.com/150"],
+    ["id" => 25, "titulo" => "As Memorás de Marnie", "genero" => "Aminação", "imagem" => "https://via.placeholder.com/150"],
 ];
 
 if (!isset($_SESSION['filmes_salvos'])) {
